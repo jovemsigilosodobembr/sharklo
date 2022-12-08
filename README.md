@@ -1,2 +1,4 @@
 # sharklo
-12
+
+
+bash requirements
